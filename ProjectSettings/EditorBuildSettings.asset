@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startscene.unity
+    guid: f3393eccedac34446ba3fa864ef9cfc4
+  - enabled: 1
+    path: Assets/Scenes/MouseaCheese.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FishaWater.unity
+    guid: a9e50f9dc3b7ad5438bb297490842c63
+  - enabled: 1
+    path: Assets/Scenes/AntaDirt.unity
+    guid: 9a4515ca8db2cfc46a0410d063f96dfd
+  m_configObjects: {}
